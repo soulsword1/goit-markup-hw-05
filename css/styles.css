@@ -6,7 +6,6 @@
   --active-color: #2196f3;
   --sub-second-color: #f5f4fa;
   --white-color: #ffffff;
-  --black-color: #000000;
   --clients-color: #afb1b8;
   --cubic: cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -640,5 +639,4 @@ address .item:not(:last-child) {
 .modal-svg {
   width: 11px;
   height: 11px;
-  fill: var(--black-color);
 }
